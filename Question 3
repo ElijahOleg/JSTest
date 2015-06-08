@@ -1,7 +1,7 @@
 var createArray = function(x,y){
   var numberArray = [];
   for (i = x; i <= y; i++){
-      numberArray.push(i++)
+      numberArray.push(i)
   }
   return numberArray
 }
